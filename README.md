@@ -16,8 +16,8 @@ Aspectos a calificar y su respectivo porcentaje de la nota final:
 - Título y encabezados - 10%
 - Uso de itálicas y negritas (puede usar los elementos ```strong``` y ```em```) - 10%
 - Enlaces en los nombres científicos de las especies - 30%
-- Estructura de la tabla (ubicación y cantidad de filas, columnas y encabezados) - 20%
-- Imágenes (nótese el tamaño reducido y uniforme de todas las imágenes) - 30%
+- Estructura de la tabla con información sobre las especies (ubicación y cantidad de filas, columnas y encabezados) - 20%
+- Imágenes de las especies (nótese el tamaño reducido y uniforme de todas las imágenes) - 30%
 
 Publique la página resultante en GitHub Pages y envíele al profesor la dirección.
 
