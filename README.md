@@ -2,7 +2,7 @@
 ## Tarea 01 - HTML
 
 ### Fecha de entrega y entregables
-La fecha y hora límite para la entrega es **miércoles 7 de abril de 2021 a las 5:00 p.m.**
+La fecha y hora límites para la entrega es **miércoles 7 de abril de 2021 a las 5:00 p.m.**
 
 Debe enviarle al profesor por correo electrónico la dirección para visualizar en GitHub Pages la página web resultante.
 
@@ -16,8 +16,8 @@ Aspectos a calificar:
 - Título y encabezados (10%)
 - Uso de itálicas y negritas (10%) (puede usar los elementos ```strong``` y ```em```)
 - Enlaces en los nombres científicos (30%)
-- Estructura de la tabla (20%)
-- Imágenes (30%)
+- Estructura de la tabla (20%) (ubicación y cantidad de filas, columnas y encabezados)
+- Imágenes (30%) (nótese el tamaño reducido y uniforme de todas las imágenes)
 
 Publique la página resultante en GitHub Pages y envíele al profesor la dirección.
 
