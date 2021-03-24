@@ -2,7 +2,7 @@
 ## Tarea 01 - HTML
 
 ### Fecha de entrega y entregables
-La fecha y hora límites para la entrega es **miércoles 7 de abril de 2021 a las 5:00 p.m.**
+La fecha y hora límite para la entrega es **miércoles 7 de abril de 2021 a las 5:00 p.m.**
 
 Debe enviarle al profesor por correo electrónico la dirección para visualizar en GitHub Pages la página web resultante.
 
