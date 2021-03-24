@@ -7,7 +7,7 @@ La fecha y hora límite para la entrega es **miércoles 7 de abril de 2021 a las
 Debe enviarle al profesor por correo electrónico la dirección para visualizar en GitHub Pages la página web resultante.
 
 ### Desarrollo
-Desarrolle en GitHub Pages un documento HTML que luzca como el de la siguiente imagen:
+Desarrolle en GitHub un documento HTML que luzca como el de la siguiente imagen:
 
 <img src="img/tarea01.png">
 
