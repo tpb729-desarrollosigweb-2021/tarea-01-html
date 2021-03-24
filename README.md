@@ -11,13 +11,13 @@ Desarrolle en GitHub un documento HTML que luzca como el de la siguiente imagen:
 
 <img src="img/tarea01.png">
 
-Aspectos a calificar:
+Aspectos a calificar y su respectivo porcentaje de la nota final:
 
-- Título y encabezados (10%)
-- Uso de itálicas y negritas (10%) (puede usar los elementos ```strong``` y ```em```)
-- Enlaces en los nombres científicos (30%)
-- Estructura de la tabla (20%) (ubicación y cantidad de filas, columnas y encabezados)
-- Imágenes (30%) (nótese el tamaño reducido y uniforme de todas las imágenes)
+- Título y encabezados - 10%
+- Uso de itálicas y negritas (puede usar los elementos ```strong``` y ```em```) - 10%
+- Enlaces en los nombres científicos - 30%
+- Estructura de la tabla (ubicación y cantidad de filas, columnas y encabezados) - 20%
+- Imágenes (nótese el tamaño reducido y uniforme de todas las imágenes) - 30%
 
 Publique la página resultante en GitHub Pages y envíele al profesor la dirección.
 
